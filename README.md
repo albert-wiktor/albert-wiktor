@@ -1,0 +1,4 @@
+- 👋 Hej, hej, siemanko! Jestem Albert! A ja Wiktor!
+- 👀 Prowadzimy na YouTube kanał (https://www.youtube.com/channel/UCcby2rrIATDM_mZUanjE4Xg) na którym bawimy się i programujemy!
+- 🎥 W naszych filmach opowiadamy o Micro:bit oraz robocie Maqueen Plus.
+- 📤 A w naszych repozytoriach znajdziesz kod, który używamy w trakcie zabawy
